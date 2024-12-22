@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto E-Diaristas
 
 ## Descrição
@@ -15,7 +14,7 @@ O projeto "E-Diaristas" foi desenvolvido durante a Imersão Multi Stack da Trein
 
 ## Tecnologias utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,spring)](https://skillicons.dev)
 
 ## Dependências de Desenvolvimento
 
@@ -50,10 +49,4 @@ Execute o projeto através do Maven.
 mvn spring-boot:run
 ```
 
-Acesse a aplicação em [http://localhost:8080/admin/servicos](http://localhost:8080/admin/servicos).
-=======
-# e-diaristas
- projeto e-diariastas segue o modelo api-rest feito com java utilizando o spring boot (ainda em desenvolvimento)
- 
- 
->>>>>>> ef485283189e0d6d469bab3e325f185582b54b21
+Acesse a aplicação em [http://localhost:8080/admin/servicos](http://localhost:8080/admin/servicos)
